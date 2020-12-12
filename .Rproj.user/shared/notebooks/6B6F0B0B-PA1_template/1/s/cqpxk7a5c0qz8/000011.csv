@@ -1,0 +1,2 @@
+"0","stepsperday<-aggregate(steps~date,activity,sum)"
+"0","hist(stepsperday$steps, xlab=""Steps"", main=""Histogram of daily steps"")"

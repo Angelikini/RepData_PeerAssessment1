@@ -1,0 +1,5 @@
+"0","activity<-read.table(""~/Coursera/RepData_PeerAssessment1/activity.csv"")
+"
+"2","Error in scan(file = file, what = what, sep = sep, quote = quote, dec = dec,  : 
+  line 2 did not have 2 elements
+"

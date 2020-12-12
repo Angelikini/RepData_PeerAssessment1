@@ -1,0 +1,6 @@
+"0","newmeansteps<-mean(newstepsperday$steps)"
+"0","newmediansteps<-median(newstepsperday$steps)"
+"0",""
+"0","newsummaryofsteps<-as.data.frame(newmeansteps,col.names=c(""mean""))"
+"0","newsummaryofsteps$median<-newmediansteps"
+"0","print(newsummaryofsteps)"

@@ -1,0 +1,4 @@
+"0",""
+"0","meanstepsperday<-aggregate(steps~date,activity,mean)"
+"0","medianstepsperday<-aggregate(steps~date,activity,median)"
+"0",""

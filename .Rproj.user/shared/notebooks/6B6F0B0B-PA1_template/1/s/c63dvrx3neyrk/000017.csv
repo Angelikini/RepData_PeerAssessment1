@@ -1,0 +1,6 @@
+"0","averagedailysteps<- aggregate(steps~interval,activity, mean)"
+"0",""
+"0","plot(steps~interval,data=averagedailysteps, type = ""l"", "
+"0","     xlab = ""5 min intervals in a day"", "
+"0","     ylab = ""Average number of steps"", "
+"0","     main = ""Average daily activity pattern"")"

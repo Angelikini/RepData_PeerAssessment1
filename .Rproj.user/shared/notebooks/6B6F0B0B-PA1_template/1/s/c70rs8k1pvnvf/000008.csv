@@ -1,0 +1,2 @@
+"0",""
+"0","plot(steps~interval,data=filter(newaveragedailysteps,Day==""weekend""), type = ""l"",xlab = ""5 min intervals in a day"",ylab = ""Average steps"",main = ""Activity during the  week"")"
